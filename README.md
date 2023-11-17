@@ -1,4 +1,18 @@
-### Hi there 👋
+# Welcome to my Portfolio! 
+
+## Projects: 
+- Physics IA Cepheids DataBank
+- Personal Blog (Private)
+- 'cheesyminecart', my magnum opus - https://publish.obsidian.md/cheesyminecart/
+
+## About
+
+Budding astrophysicist, chronic underachiever. Downloading the perseverance module. 
+
+
+
+
+
 
 <!--
 **cheesyminecart/cheesyminecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
