@@ -3,7 +3,7 @@
 ## Projects: 
 - Physics IA Cepheids DataBank
 - Personal Blog (Personalisation of Sat Naing's AstroPaper, link: https://thespacer-blog.netlify.app)
-- 'cheesyminecart', my magnum opus - https://publish.obsidian.md/cheesyminecart/
+- 'cheesyminecart', my magnum opus - https://mindniche.org
 
 ## About
 
