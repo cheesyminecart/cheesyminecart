@@ -1,19 +1,21 @@
-# Welcome to my Portfolio! 
+# Welcome! Glad to have you abroad. 
 
 ## Projects: 
 - Physics IA Cepheids DataBank
-- Personal Blog (Personalisation of Sat Naing's AstroPaper, link: https://thespacer-blog.netlify.app)
+- Personal Blog (Personalisation of Sat Naing's AstroPaper, link: https://thespacer-blog.com)
 - 'cheesyminecart', my magnum opus - https://mindniche.org
 
 ## About
 
-Budding astrophysicist, chronic underachiever. Downloading the perseverance module. 
+Budding astrophysicist, chronic underachiever. Downloading the perseverance module. Fawning over Wynncraft. 
 
+Come check me out on different platforms! 
 
+- Instagram: https://www.instagram.com/cheesyminecart_astro/
+- Medium: https://medium.com/@cheesyminecart
+- Astrobin: https://www.astrobin.com/users/cheesyminecart/
 
-
-
-
+Thanks for stopping by! 
 <!--
 **cheesyminecart/cheesyminecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
