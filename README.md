@@ -11,8 +11,8 @@ So, not very good at programming, but I'd be happy to show you around my persona
 
 Budding astrophysicist, chronic underachiever. Downloading the perseverance module. Fawning over Wynncraft. 
 
->[!Tip] - Hobbies
->Try it out, come to conclusions. So do things - but make sure to do them within your schedule. 
+> [!Tip] - Hobbies
+> Try it out, come to conclusions. So do things - but make sure to do them within your schedule. 
 
 Come check me out on different platforms! 
 
