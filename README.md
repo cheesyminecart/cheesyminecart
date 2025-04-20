@@ -1,27 +1,39 @@
-# Welcome! Glad to have you abroad. 
+# Welcome to my Profile!
 
-So, not very good at programming, but I'd be happy to show you around my personal slice of the internet anyways! 
+![Orion Nebula](https://thespacer-blog.com/blog-images/orion-neb@2824w.webp)
 
-## Projects: 
-- Physics IA Cepheids DataBank
-- Personal Blog (Personalisation of Sat Naing's AstroPaper, link: https://thespacer-blog.com. Added functionalities to test out Astro!)
-- 'cheesyminecart', my magnum opus - https://mindniche.org
+I'm Julien, a High School Senior (soon to be updated), hoping to become an astrophysicist in the future. 
 
-## About
+To those close to me, I'm known as the "Chaotic One". I like to believe that means I have lots of ideas to contribute. 
 
-Budding astrophysicist, chronic underachiever. Downloading the perseverance module. Fawning over Wynncraft. 
+>[!NOTE]
+> Some fun facts about me:
+> - I'm making my own tabletop world! To be set in the late 2100s. 
+> - I'm a total metalhead 🎸 - Royal Republic especially.
+> - I do my own astrophotography - for my gallery, you can check my [blog](https://thespacer-blog.com).
 
-> [!Tip]
-> Try it out, come to conclusions. So do things - but make sure to do them within your schedule. 
+Looking forward to working with you!
 
-Come check me out on different platforms! 
+# Projects: 
+
+## Personal Projects: 
+
+- [Personal Blog](https://thespacer-blog.com.) (Personalisation of Sat Naing's AstroPaper)
+- '[MindNiche](https://mindniche.org)', my physics notes vault, hosted through Obsidian Publish. Intended to be 
+
+## Astronomy Projects
+
+I have worked on SHAPEX projects with Dr Andreas Ritter of the HKU Laboratory for Space Research, and have prepared presentations to illustrate shortfalls with apps. 
+
+# Contact:
+
+I'm active on a slew of other platforms - you can check my other socials out
 
 - Instagram: https://www.instagram.com/cheesyminecart_astro/
 - Medium: https://medium.com/@cheesyminecart
 - Astrobin: https://www.astrobin.com/users/cheesyminecart/
 
 Thanks for stopping by! 
-
 
 <!--
 **cheesyminecart/cheesyminecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
