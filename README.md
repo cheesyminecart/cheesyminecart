@@ -1,5 +1,7 @@
 # Welcome to my Profile! 👋
 
+![githubbanner](https://github.com/user-attachments/assets/733e43c0-dcf0-4cc0-864b-d8a75bb4232c)
+
 I'm Julien, a High School Senior (soon to be updated), hoping to become an astrophysicist in the future. 
 
 To those close to me, I'm known as the "Chaotic One". I like to believe that means I have lots of ideas to contribute. 
