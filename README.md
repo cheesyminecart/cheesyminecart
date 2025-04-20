@@ -1,6 +1,4 @@
-# Welcome to my Profile!
-
-![Orion Nebula](https://thespacer-blog.com/blog-images/orion-neb@2824w.webp)
+# Welcome to my Profile! 👋
 
 I'm Julien, a High School Senior (soon to be updated), hoping to become an astrophysicist in the future. 
 
@@ -34,6 +32,8 @@ I'm active on a slew of other platforms - you can check my other socials out
 - Astrobin: https://www.astrobin.com/users/cheesyminecart/
 
 Thanks for stopping by! 
+
+![Orion Nebula](https://thespacer-blog.com/blog-images/orion-neb@2824w.webp)
 
 <!--
 **cheesyminecart/cheesyminecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
