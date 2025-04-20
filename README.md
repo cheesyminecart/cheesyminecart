@@ -25,7 +25,7 @@ I have worked on SHAPEX projects with Dr Andreas Ritter of the HKU Laboratory fo
 
 # Contact:
 
-I'm active on a slew of other platforms - you can check my other socials out
+I'm active on a slew of other platforms. If you would like to contact me, feel free to reach me at [](cheungjulien@gmail.com) or through the following platforms:
 
 - Instagram: https://www.instagram.com/cheesyminecart_astro/
 - Medium: https://medium.com/@cheesyminecart
